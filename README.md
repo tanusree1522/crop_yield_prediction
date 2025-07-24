@@ -12,4 +12,4 @@ Here is a brief introduction on the utilities for each folder.
 
 For more information, please contact Jiaxuan You.
 
-youjiaxuan@gmail.com.
+youjiaxuan@gmail.com."# crop_yield_prediction" 
